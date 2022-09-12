@@ -1,0 +1,55 @@
+
+.card{
+
+  height:auto;
+  width: 200px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: inset;
+  
+
+}
+
+.container{
+
+  position:relative;
+  float: left;
+}
+
+.create{
+
+  max-width: 400px;
+  position:relative;
+  margin-left: 35%;
+  margin-top: 10px;
+
+}
+
+.createe{
+  margin-left: 70px;
+}
+
+.submit{
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+.green{
+margin-left: 10px;
+background-color: khaki;
+
+}
+
+.red{
+  margin-left: 10px;
+  background-color: darksalmon;
+
+}
+.green:hover{
+  background-color: lightslategrey;
+  color: white;
+}
+
+.red:hover{
+  background-color: orangered;
+  color: white;
+}
